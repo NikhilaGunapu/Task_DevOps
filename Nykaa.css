@@ -1,0 +1,61 @@
+.navbar-brand{
+    color: darkmagenta;
+    
+}
+.background-img{
+    background-image: url('https://images.the-captable.com/cs/158/9ea489d050ec11eca0e52db2bb243d20/Nykaa-Cover-Light-1648633000353.png');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.button{
+    background-color: black;
+    border-radius: 12px;
+    top: 50px;
+    color: white;
+    text-decoration: none;
+    padding: 10px 24px;
+    margin-top: 20px;
+    position: absolute;
+    top: 65%;
+    left: 45%;
+}
+.products{
+    text-align: center;
+}
+.nykaa-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(1fr,1fr,1fr));
+  grid-template-rows: repeat(auto-fit, minmax(1fr,1fr,1fr));
+  gap: 20px;
+  padding:0 20px;
+  background-color: whitesmoke;
+  
+}
+.background-shop{
+    background-image: url('https://blog.connectplug.com.br/wp-content/uploads/2022/03/top-view-decoration-with-beauty-products-pink-background-scaled.jpg');
+    background-size: cover;
+    height:100vh;
+}
+.card{
+   width:50px;
+   height: 60px;
+   overflow: hidden;
+   padding:20px;
+}
+.krishna-img{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/022/592/272/large_2x/image-of-divine-beautiful-closed-eyes-blue-colored-krishna-generative-ai-free-photo.jpeg');
+
+}
+.krishna-text{
+   text-align:center;
+   font-size: 50px;
+}
+.paragraph{
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    font-size: 30px;
+}
+
+
